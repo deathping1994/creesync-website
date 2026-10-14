@@ -369,3 +369,15 @@ h1, h2, h3 { overflow-wrap: break-word; }
   .recog .cred { flex-direction: column; align-items: flex-start; }
   .recog .imgbox { width: auto; height: auto; justify-content: start; }
 }
+
+/* FAQ */
+.faq-wrap { display: grid; grid-template-columns: .8fr 1.2fr; gap: 56px; align-items: start; }
+.faq { border-top: 1px solid var(--line); }
+.faq-item { border-bottom: 1px solid var(--line); }
+.faq-item summary { list-style: none; cursor: pointer; padding: 20px 40px 20px 0; position: relative; font-family: var(--display); font-weight: 600; font-size: 17px; color: var(--text); }
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::after { content: ""; position: absolute; right: 6px; top: 50%; width: 10px; height: 10px; border-right: 2px solid var(--accent); border-bottom: 2px solid var(--accent); transform: translateY(-70%) rotate(45deg); transition: transform .2s; }
+.faq-item[open] summary::after { transform: translateY(-30%) rotate(-135deg); }
+.faq-item summary:hover { color: var(--accent); }
+.faq-item p { margin: 0 0 20px; color: var(--muted); font-size: 15.5px; max-width: 680px; }
+@media (max-width: 960px) { .faq-wrap { grid-template-columns: 1fr; gap: 28px; } }

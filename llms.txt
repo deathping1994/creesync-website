@@ -1,0 +1,50 @@
+# Creesync Software Technologies Private Limited
+
+> Creesync is an Indian IT services and engineering company (founded 2019) that takes on complex engineering challenges across tech stacks, organisations, hardware and software, for enterprises, institutions and the public sector. It owns the complete technology stack in-house, from hardware and private cloud to applications and on-site support. Certified ISO 9001, ISO/IEC 27001 and SOC 2 Type II; NASSCOM member.
+
+Website: https://creesync.com/
+
+## Key facts
+- Legal name: Creesync Software Technologies Private Limited (India)
+- Founded: 2019
+- Team: 50+ in-house engineers and specialists
+- Offices: 2 in India, 1 international; clients in 30+ countries
+- Certifications: ISO 9001 (quality), ISO/IEC 27001 (information security), SOC 2 Type II; NASSCOM member
+- Track record: 150+ technology solutions shipped, 200+ platforms deployed, a single platform serving 10M+ end users
+- Core USP: complex engineering challenges and prompt support, including dedicated engineering teams at client premises
+- India first: Indian ownership and engineering teams; hosting options that keep data in India
+- Captive implementation partner: Brimo Software Solutions (partnership firm whose equal partners are both directors of Creesync)
+- Brand: FarziEngineer® is a trademark of Creesync and its digital commerce practice (200+ brands served)
+
+## Capabilities
+- Enterprise software: business applications, portals, workflow and case management, order and inventory systems
+- Private, public and hybrid cloud: Creesync-hosted infrastructure with data in India; private / on-premise clouds built and operated in client data centres; AWS, Azure, Google Cloud; Kubernetes, CI/CD, observability
+- Data engineering and analytics: Kafka, Airflow, data warehouses, MIS and real-time dashboards
+- AI and machine learning: generative AI assistants, recommendation engines, intelligent automation
+- Web and mobile platforms: high-traffic portals, iOS, Android, React Native, Flutter
+- System integration: ERP, POS, payment gateways, logistics and legacy systems
+- Hardware and edge integration: servers, devices, POS and edge hardware commissioned on site
+- Modernisation and migration of legacy systems
+- Security and compliance under ISO/IEC 27001 and SOC 2 Type II controls
+- Support: on-site teams, dedicated support desk, escalation matrix, monitoring, SLA-backed maintenance
+
+## Sectors
+Government and public sector (citizen-service portals and apps, scheme and beneficiary management, grievance systems, MIS dashboards, secure hosting), large enterprises, retail/FMCG/consumer, healthcare and pharma, logistics and supply chain, technology and cybersecurity.
+
+## Delivery model
+Discover → Design → Build → Deploy (including hardware commissioning, UAT, data migration, training) → Operate (on-site and remote support, SLAs, knowledge transfer). Governance with named delivery leadership, steering reviews, risk registers and milestone reporting.
+
+## Selected clients
+P&G, Emami, Mamaearth, boAt, Zuventus Healthcare, Minimalist, Noise, WOW Skin Science, Lotus, Yoga Bar, Plix, Dr. Sheth's, Cambay Tiger, Safehouse Technologies, Clinikally, Zouk, Perfora.
+
+## Selected engagements
+- Mamaearth: stabilised a legacy stack, then launched a custom headless platform in 3 months built for 10x traffic (10M+ customers, 1Cr+ app downloads).
+- Cambay Tiger: location-aware commerce and operations platform with warehouse allocation, delivery-slot and territory management (28% conversion lift).
+- Plix: three websites and mobile apps on one shared backend with custom OMS and AI recommendations (87% conversion improvement).
+- boAt, Noise, Minimalist, Leaf Studios: high-volume promotions engine beyond platform limits.
+
+## Contact
+- Sales: +91 78381 71569
+- Engineering: +91 90447 47946
+- HR: +91 75260 42221
+- Enquiry form: https://creesync.com/#contact
