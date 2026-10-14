@@ -571,7 +571,7 @@
         </div>
         <div class="field-row">
           <label><span class="lbl">Email<em>*</em></span><input type="email" name="email" required autocomplete="email"></label>
-          <label><span class="lbl">Phone</span><input type="tel" name="phone" autocomplete="tel" inputmode="tel"></label>
+          <label><span class="lbl">Phone<em>*</em></span><input type="tel" name="phone" required pattern="\+?[0-9\s\-]{10,16}" title="Enter a valid phone number (at least 10 digits)" autocomplete="tel" inputmode="tel"></label>
         </div>
         <label><span class="lbl">Enquiry type<em>*</em></span>
           <select name="enquiry_type" required>
