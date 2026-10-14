@@ -330,3 +330,14 @@ blockquote.quote cite { display: block; font-style: normal; font-size: 13px; col
 .group-card li::before { content: ""; position: absolute; left: 0; top: 10px; width: 8px; height: 2px; background: var(--accent); }
 .group-card .fe-dark { background: var(--navy); padding: 16px 20px; border-radius: 8px; height: 76px; width: auto; margin: 4px 0 18px; }
 @media (max-width: 960px) { .group-grid { grid-template-columns: 1fr; } }
+
+/* Contact */
+.contact-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 20px; }
+.contact-card { display: grid; gap: 4px; border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; background: #fff; transition: border-color .2s, background .2s; }
+.contact-card:hover { border-color: var(--accent); background: #f8faff; }
+.contact-card .ico { width: 40px; height: 40px; border-radius: 8px; background: rgba(37,99,235,.08); color: var(--accent); display: grid; place-items: center; margin-bottom: 10px; }
+.contact-card .ico svg { width: 20px; height: 20px; }
+.contact-card .dept { font-size: 12px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); }
+.contact-card b { font-family: var(--display); font-size: 22px; font-weight: 600; color: var(--text); }
+.contact-card .desc { font-size: 14px; color: var(--muted); }
+@media (max-width: 960px) { .contact-grid { grid-template-columns: 1fr; } }
